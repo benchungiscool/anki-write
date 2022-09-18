@@ -1,2 +1,2 @@
-# anki-write
-Write the answers to your Anki decks
+# Anki Write
+A plugin that allows you to write the answers to your Anki decks.
