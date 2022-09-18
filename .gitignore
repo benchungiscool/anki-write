@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 
 # vim tags
+tags
+
+# Update plugin script
+update-plugin
